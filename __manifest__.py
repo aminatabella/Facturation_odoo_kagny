@@ -2,7 +2,7 @@
 
 {
     'name': 'Système de facturation et Customisation',
-    'version': '1.1',
+    'version': '1.0',
     'author': 'Bella Bah',
     'website': 'https://www.aminatabella.com',
     'support': 'baminatabella@gmail.com',
