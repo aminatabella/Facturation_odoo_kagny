@@ -7,10 +7,10 @@
                 <ul class="list-inline mb4">
                     <!-- using the list-inline-item class from bootstrap causes weird behaviours in pdf report
                          adding d-inline class fixes the problem-->
-                    <li class="list-inline-item d-inline"><img src="/facturations_custom/static/src/img/home.png" alt="home immage" width="20" height="20" class="d-inline"/><small style="color:blue;" class="ml-1">Immeuble Cristal, Tombo, Kaloum, Conakry, République de Guinée, BP:4477</small></li>
-                    <li class="list-inline-item d-inline"><img src="/facturations_custom/static/src/img/credit_card.png" alt="RCCM immage" width="20" height="20" /><small style="color:blue;" class="ml-1">RCCM/GN.KAL.2018.B.087 331; NIF: 741749956; Clé TVA: 1L.</small></li>
-                    <li class="list-inline-item d-inline"><img src="/facturations_custom/static/src/img/phone_call.png" alt="Tél" width="20" height="20" /><small style="color:blue;" class="ml-1">+224 610 100 050; +224 610 100 040</small></li>
-                    <li class="list-inline-item d-inline"><img src="/facturations_custom/static/src/img/paper_plane.png" alt="Info" width="20" height="20" /><small style="color:blue;" class="ml-1">Servicesinfo@kagnytechnology.com; www.kagnytechnology.com</small></li>
+                    <li class="list-inline-item d-inline"><img src="https://raw.githubusercontent.com/aminatabella/Facturation_odoo_kagny/version1/static/src/img/home.png" alt="home immage" width="20" height="20" class="d-inline"/><small style="color:blue;" class="ml-1">Immeuble Cristal, Tombo, Kaloum, Conakry, République de Guinée, BP:4477</small></li>
+                    <li class="list-inline-item d-inline"><img src="https://raw.githubusercontent.com/aminatabella/Facturation_odoo_kagny/version1/static/src/img/credit_card.png" alt="RCCM immage" width="20" height="20" /><small style="color:blue;" class="ml-1">RCCM/GN.KAL.2018.B.087 331; NIF: 741749956; Clé TVA: 1L.</small></li>
+                    <li class="list-inline-item d-inline"><img src="https://raw.githubusercontent.com/aminatabella/Facturation_odoo_kagny/version1/static/src/img/phone_call.png" alt="Tél" width="20" height="20" /><small style="color:blue;" class="ml-1">+224 610 100 050; +224 610 100 040</small></li>
+                    <li class="list-inline-item d-inline"><img src="https://raw.githubusercontent.com/aminatabella/Facturation_odoo_kagny/version1/static/src/img/paper_plane.png" alt="Info" width="20" height="20" /><small style="color:blue;" class="ml-1">Servicesinfo@kagnytechnology.com; www.kagnytechnology.com</small></li>
 
 <!--                    <li class="list-inline-item d-inline"><i class="fa fa-home mr-1" style="color:orange;" role="img" aria-label="Phone" title="Phone"/>Home</li>-->
 <!--                    <li class="list-inline-item d-inline"><i class="fa fa-user mr-1" style="color:orange;" role="img" aria-label="Phone" title="Phone"/>User</li>-->
