@@ -73,11 +73,5 @@
         </template>
 
 <!--      Changer section color-->
-        <template id="external_layout_standard_custome" inherit_id="web.styles_company_report">
-            <xpath expr="//div/div[hasclass('text-center')]" position="replace">
-                <div class="text-center" style="border-top: 1px solid black;">
-                </div>
-            </xpath>
-        </template>
 
     </data>
